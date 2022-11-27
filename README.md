@@ -7,7 +7,7 @@ This web based health application has been developed for the accomplishment of F
 
 
 Project Link -https://rutikgawali1.github.io/healthbot/healthbot.html
-project demo video link - rutikgawali1.github.io/healthbot/
+project demo video link -
 
  Azure technologies used for Project
 
